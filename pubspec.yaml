@@ -39,6 +39,7 @@ dependencies:
   firebase_auth: ^4.19.6 # se agrego para autentificar por firebase
   flutter_signin_button: ^2.0.0 # se agrego para tener el boton de diferentes appps
   get: ^4.6.6 #manejador de estados, rutas, etc
+  firebase_core: ^2.31.1
 
 dev_dependencies:
   flutter_test:
